@@ -8,5 +8,5 @@ Meu objetivo com este projeto inicial era fazer um site sobre como surgiu o masc
 do android e seus curiosidades!
 
 # Para quem?
-Este projeto foi feito baseado para o CursoemVideo, a qual vem o curso que venho consumindo
+Este projeto foi feito baseado para o CursoemVideo, a qual vem o curso que venho aprendendo e práticando!
 a um tempo

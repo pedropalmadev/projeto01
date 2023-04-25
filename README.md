@@ -10,3 +10,6 @@ do android e seus curiosidades!
 # Para quem?
 Este projeto foi feito baseado para o CursoemVideo, a qual vem o curso que venho aprendendo e práticando!
 a um tempo
+
+#Link do projeto pronto 
+--> https://pedropalmadev.github.io/projeto01/
